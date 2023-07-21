@@ -1,0 +1,87 @@
+<html>
+         
+		 <head>
+		      <title>About Us</title>
+			   <link rel="stylesheet" href="asset/css/960.css"/>
+			  <link rel="stylesheet" href="asset/css/style1.css"/>
+              <link href="https://fonts.googleapis.com/css2?family=Mingzat&display=swap" rel="stylesheet">		   
+		 </head>
+		 
+
+		 <body>
+		 
+		     <div class="container_12">
+				
+                     <div class="grid_3">
+				           <img src="https://img.freepik.com/free-vector/line-tree-logo-template-branding-with-text_53876-117526.jpg?w=2000" alt="shopping" width="220px" height="220px"/>
+				     </div>
+				  
+				     <div class="grid_9 banner">
+				        Crop - online nursery
+				     </div>
+					 
+					 <div class="clear">
+					 </div>
+	            <div class="grid_3 menu">
+					       <a href="index.html">Home</a>
+					 </div>
+					 
+					  <div class="grid_3 menu">
+					       <a href="about.html">About</a>
+					 </div>
+					 
+					  <div class="grid_3 menu">
+					        <a href="product.html">Product</a>
+					 </div>
+					 
+					  <div class="grid_3 menu">
+					        <a href="contact.html">Contact</a>
+					 </div><br>
+					 
+					 <div class="abc">
+			          <h1>About</h1>
+			         
+					 
+		      <p>WHO WE ARE?<br></p>	
+			   
+			  <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is a team work with us....we all are nature lovers.
+			propelled by our affection for flowers and energy about nature, it is our obsession to make creative
+			and noteworthy plant and new flower courses of action.we trust the best, freshest plants and flowers deliver
+           the most noteworthy presentation.
+			we glad to give quality flowers and plants to our customers.</p>
+
+          <h1>OUR CORE VALUES</h1>
+          
+			</div>
+            
+            <div class="grid_4 logo">
+		   <p><img src="asset/image/thamb.jpg" alt="shopping" width="100px" height="100px"/></p>
+           <p>Trustworthiness, Commitment, Integrity, Ethics, Fair-play, Compliance, Transparency, Persistence</p>
+             </div>
+
+           <div class="grid_4 logo">
+		   <p><img src="asset/image/com.jpg" alt="shopping" width="100px" height="100px"/></p>
+            <p>Empathy, Respect , Gratitude, Inclusiveness</p>
+             </div>
+
+           <div class="grid_4 logo">
+		   <p><img src="asset/image/peo.png" alt="shopping" width="100px" height="100px"/></p>
+           <p>Profitability, Cost-consciousness, Inclusiveness, Sustainability, Community service, Social Responsibility</p>
+             </div>
+           
+
+			 <div class="clear">
+					</div>
+
+             
+             
+			
+					<div class="grid_12 footer">
+					      <h3> Design and Developed by USHASWINI & VARSHINI</h3>
+					      &copy;All right reserved 2022
+					</div> 
+			  
+		 
+		 </body>
+		 
+</html>
