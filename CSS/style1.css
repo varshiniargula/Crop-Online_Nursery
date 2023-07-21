@@ -1,0 +1,199 @@
+
+.box{
+
+  border-style:solid;
+  font-family: 'Mingzat', sans-sarif;
+  
+} 
+
+.container_12{
+	background-color:#D9EEB3;
+	margin-top:40px;
+	padding-top:5px;
+
+
+}
+
+
+.banner{
+	text-align:center;
+	font-size:90px;
+	font-weight:bold;
+	color:#037C08;
+	background-attachment:fixed;
+	
+}
+.cover{
+	margin-top:10px;
+}
+
+.menu{
+	/*border-style:solid;*/
+	text-align:center;
+	margin-top:5px;
+	background-color:NONE;
+	
+}
+
+.menu a{
+	color:#AF0505;
+	font-weight:bold;
+	font-size:20px;
+	text-decoration:none;
+	display:block;
+}
+.section{
+	height:50px;
+	/*border-style:solid;*/
+	margin-top:70px;
+	font-size:30px;
+	text-align:center;
+	color:#0A1D85;
+	font-weight:bold;
+	
+}
+.section:hover{
+	color:#FD0707;
+}
+.section h2{
+  margin-top:250px;
+  color:black;
+}
+
+.logo p{
+ text-align:center;
+}
+
+.eproduct{
+	/*border-style:solid;*/
+	box-sizing:border-box;
+	background-color:#D9EEB3;
+	margin-top:10px;
+	height:300px;
+	text-align:center;
+
+}
+
+.eproduct:hover
+{
+	background-color:#D4FAC0;
+}
+.eproduct h1{
+	text-align:center;
+}
+
+.eproduct h1:hover{
+	         color:#FD0707;
+}
+.abc h1{
+	text-align:center;
+	margin-top:100px;
+	background-color:#0D5202;
+	color:white;
+   
+    
+}
+.new{
+ margin-left:50px;
+}
+.back{
+margin-top:200px;
+}
+
+.plant{
+margin-left:50px;
+}
+
+.offer h2{
+ margin-top:100px;
+margin-left:50px;
+}
+
+.abc h2{
+      margin-left:50px;
+
+}
+.place h2{
+    margin-left:50px;   
+}
+.name{
+  margin-left:50px; 
+}
+
+
+.free{
+    /*border-style:solid;*/
+    border-radius:100px;
+    font-style:italic;
+    background-color:#FAF705;
+    color:red;
+    text-align:center;
+    height:60px;
+    margin-top:25px;
+}
+
+
+.abc p{
+      text-align:center;
+      justify-content:center;
+      font-weight:bold:
+        
+}
+
+
+.eprice{
+	/*border-style:solid;*/
+	background-color:#FD7B1A;
+	color:white;
+	font-weight:bold;
+}
+
+.btn_eproduct{
+	margin-left:60px;
+	border-width:0px;
+	background-color:#2F8D14;
+	border-radius:3px;
+	font-weight:bold;
+}
+.mproduct{
+	text-align:center;
+}
+
+.sproduct{
+       margin-top:300px;
+       text-align:center;
+}
+
+.mproduct:hover{
+	color:#FD0707;
+}
+
+#three:valid{
+	border-color:green;
+}
+
+#phone:focus:invalid{
+	border-color:red;
+}
+
+.contact{
+	
+	 margin-top:300px;
+	 height:500px;
+	/* border-style:solid;*/
+	 box-sizing:border-box;
+	 text-align:center;
+	 background-color:#B0BFAD;
+}
+
+.footer{
+	height:100px;
+	/*border-style:solid;*/
+	margin-top:500px;
+	background-color:329009;
+	text-align:center;
+	color:white;
+	font-weight:bold;
+	background-attachment:fixed;
+	
+}
