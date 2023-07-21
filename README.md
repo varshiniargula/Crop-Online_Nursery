@@ -6,3 +6,8 @@ The website's user interface looks like this:
 
 ![Screenshot 2023-07-21 233545](https://github.com/varshiniargula/Crop-Online_Nursery/assets/133252654/a0e97f63-4fcf-4236-b88d-6dec7120be48)
 
+Products page:
+
+![Screenshot 2023-07-21 233825](https://github.com/varshiniargula/Crop-Online_Nursery/assets/133252654/ca46ae0f-ea18-4819-bde3-598089a1b3f0)
+
+
